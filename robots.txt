@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://termuxxphonewebsitetutorial-1.vercel.app/sitemap.xml
